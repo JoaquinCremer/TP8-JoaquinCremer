@@ -1,7 +1,5 @@
-
-"""
-  mermaid
-  flowchart TB;
-  A-->B;
-  A-->C;
-  """
+´´´ mermaid
+  flowchart td
+  A-->b
+  a-->c
+  ´´´
