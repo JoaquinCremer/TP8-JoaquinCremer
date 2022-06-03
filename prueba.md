@@ -2,7 +2,7 @@
 
 
 ```mermaid
-flowchart LR;
+flowchart TB;
   A --> b;
   A --> c;
   
