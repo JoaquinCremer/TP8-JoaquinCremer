@@ -1,4 +1,2 @@
-graph TD;
-  A-->B;
-  A-->C;
-  
+flowchart LR
+    id
