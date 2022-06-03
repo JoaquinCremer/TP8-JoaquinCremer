@@ -1,5 +1,5 @@
 ´´´ mermaid
-  flowchart td
-  A-->b
-  a-->c
+  flowchart td;
+  A-->b;
+  a-->c;
   ´´´
