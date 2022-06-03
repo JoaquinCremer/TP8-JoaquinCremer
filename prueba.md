@@ -1,10 +1,10 @@
 ## Uso de mermaid
 
 
-´´´ mermaid
+```mermaid
 flowchart LR;
   A --> b;
   a --> c;
   
   
-´´´
+```
