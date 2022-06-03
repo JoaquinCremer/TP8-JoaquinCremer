@@ -1,5 +1,5 @@
 ´´´ mermaid
-graph td;
+flowchart LR;
   A-->b;
   a-->c;
   
