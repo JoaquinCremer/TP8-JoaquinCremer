@@ -1,2 +1,2 @@
-flowchart LR
-    id
+flowchart TD;
+    A-->B
